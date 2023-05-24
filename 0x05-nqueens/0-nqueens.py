@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Python3 program to solve N Queen
 # Problem using backtracking
  
@@ -98,5 +100,4 @@ def solveNQ():
 # Driver Code
 if __name__ == '__main__':
     solveNQ()
- 
-# This code is contributed by Divyanshu Mehta
+
